@@ -1,0 +1,4 @@
+#the below ignores all backup files from git
+*~
+/vim73
+/vimfiles

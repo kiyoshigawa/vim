@@ -1,0 +1,15 @@
+
+set guioptions=ae
+
+set guifont=ProFontWindows:h9.0
+
+set antialias
+"set cursorline
+"set cursorcolumn
+
+hi ColorColumn guibg=Black
+
+set lines=999
+set columns=999
+winpos 0 0
+
